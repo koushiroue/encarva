@@ -1,9 +1,11 @@
 ## 2023 ETA(?)
 ### Candidate #1 (has MicroSD)
+![[Note/Encarva/Workplace/Phones/Pasted image 20230608192751.png]]
 ![[Pasted image 20230608182949.png]]
 [Xiaomi Redmi Note 12](https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php)
 
 ### Candidate #2 (no MicroSD)
+
 ![[Pasted image 20230608183026.png]]
 [Xiaomi Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php)
 
@@ -30,5 +32,5 @@
 
 
 ## 2014
-![[Pasted image 20230608181246.png]]
+![[Pasted image 20230608192533.png]]
 [Sony Ericsson Xperia mini pro](https://www.gsmarena.com/sony_ericsson_xperia_mini_pro-3713.php)
