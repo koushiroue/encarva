@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "c9dbcc40973c9ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d8b790c0331f2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9408d4445d29d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Encarva/Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "193b578758ad5781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Encarva/Workplace/Phones/Phones.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86f6d587d438623c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e62c99e5c9f4c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb6d1e2e127c9ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "022db0be13d4108d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b43f634f1dca13e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03577ccf7269d3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "03074fea65d1dd7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d8604aa5f5e63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Encarva/Workplace/Phones/Phones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b13c97c3219ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Encarva/Workplace/Phones/Phones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7626a633627b4437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bec9d52713aed4f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Encarva/Workplace/Phones/Phones.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aeb6d1e2e127c9ad",
+  "lastOpenFiles": [
+    "Stuffs/PC-PART.xlsx",
+    "Stuffs",
+    "README.md",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/9.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/8.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/7.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/6.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/5.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/4.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/3.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/2.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/1.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320/0.png",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/96",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/9.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/8.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/7.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/6.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/5.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/4.ase",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320",
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/3.ase",
+    "Note/Encarva/Words.md",
+    "Note/Encarva/Encarva.md",
+    "Note/Encarva/Workplace/Phones/Phones.md",
+    "Note/Encarva/Workplace/Digital Configuration.md"
+  ]
+}
