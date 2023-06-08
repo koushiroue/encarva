@@ -1,3 +1,3 @@
 *Encanta* + Carve
 
-Encarca is a  `note` project 
+Encarca is a  Journaling-Based `note` project

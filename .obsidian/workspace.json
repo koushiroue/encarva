@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Note/Encarva/Encarva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d763273f04a21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Note/Encarva/Workplace/Phones/Phones.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,23 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193b578758ad5781",
+  "active": "16d763273f04a21b",
   "lastOpenFiles": [
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608192751.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608183026.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608192716.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608182949.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608192533.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608181316.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608181304.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193735.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193659.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193646.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193622.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193547.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193526.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608193324.png",
     "Note/Encarva/Workplace/Phones/Phones.md",
-    "Pasted image 20230608192451.png.md",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608181246.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608192451.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608181304.png",
+    "Note/Encarva/Workplace/Phones/Pasted image 20230608181316.png",
     "Note/Encarva/Workplace/Phones/Pasted image 20230608181352.png",
     "Note/Encarva/Workplace/Phones/Pasted image 20230608181433.png",
-    "Note/Encarva/Workplace/Digital Configuration.md",
+    "Note/Encarva/Encarva.md",
+    "Note/Encarva/Words.md",
     "README.md",
+    "Pasted image 20230608192451.png.md",
+    "Note/Encarva/Workplace/Digital Configuration.md",
     "Stuffs/PC-PART.xlsx",
     "Stuffs",
     "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/96",
@@ -185,8 +199,6 @@
     "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/6.ase",
     "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/5.ase",
     "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/4.ase",
-    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320",
-    "Note/Encarva/Words.md",
-    "Note/Encarva/Encarva.md"
+    "!note/assets/osu skin/Whimsical Stuff/source/osu/num/num/320"
   ]
 }
