@@ -1,1 +1,8 @@
-{}
+{
+  "insert-current-date": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ]
+}

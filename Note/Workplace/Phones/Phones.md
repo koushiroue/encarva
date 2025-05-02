@@ -1,40 +1,48 @@
-## 2023 ETA(?)
-### Candidate #1 (has MicroSD)
-![](images/Pasted%20image%2020230608193526.png)
-
-[Xiaomi Redmi Note 12](https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php)
-
-### Candidate #2 (no MicroSD)
+## 2023
 ![](images/Pasted%20image%2020230608193324.png)
 
 [Xiaomi Poco F5](https://www.gsmarena.com/xiaomi_poco_f5-12258.php)
-
+12GB RAM 
+256GB
+Adreno 725
 
 ## August 2020
+(08 / 09 / 2020)
 ![](images/Pasted%20image%2020230608193547.png)
 
 [Samsung Galaxy A51](https://www.gsmarena.com/samsung_galaxy_a51-9963.php)
-
+8GB RAM 
+128GB
+Mali G72-MP3
 
 ## 2018(???)
 ![](images/Pasted%20image%2020230608193622.png)
 
 [vivo V5](https://www.gsmarena.com/vivo_v5-8430.php)
-
+4GB RAM 
+32GB
+Mali-T860MP2
 
 ## 2017(??)
 ![](images/Pasted%20image%2020230608193659.png)
 
 [Oppo N3](https://www.gsmarena.com/oppo_n3-6752.php)
-
+2GB RAM 
+32GB
+Adreno 330
 
 ## 2015(??)
 ![](images/Pasted%20image%2020230608193646.png)
 
 [Lenovo S820](https://www.gsmarena.com/lenovo_s820-5486.php)
+1GB RAM 
+4GB
+PowerVR SGX544
 
-
-## 2014
+## 2013
 ![](images/Pasted%20image%2020230608193735.png)
 
 [Sony Ericsson Xperia mini pro](https://www.gsmarena.com/sony_ericsson_xperia_mini_pro-3713.php)
+512MB RAM 
+400MB
+Adreno 205

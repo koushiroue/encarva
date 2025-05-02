@@ -1,7 +1,10 @@
 {
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "promptDelete": false
 }
