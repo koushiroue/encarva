@@ -27,7 +27,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Workplace/Phones/Phones.md",
+                "file": "Paradigma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paradigma"
+            }
+          },
+          {
+            "id": "f0e4873ce7f4ba27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Workplace/Computers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computers"
+            }
+          },
+          {
+            "id": "364fb7cf2bb1f767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Workplace/Phones.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,19 +77,6 @@
         "id": "6e62c99e5c9f4c70",
         "type": "tabs",
         "children": [
-          {
-            "id": "aeb6d1e2e127c9ad",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "022db0be13d4108d",
             "type": "leaf",
@@ -80,6 +95,19 @@
             }
           },
           {
+            "id": "aeb6d1e2e127c9ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
             "id": "b43f634f1dca13e8",
             "type": "leaf",
             "state": {
@@ -88,8 +116,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "79126458514e7c44",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,6 +143,86 @@
         "type": "tabs",
         "dimension": 44.34931506849315,
         "children": [
+          {
+            "id": "bec9d52713aed4f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Workplace/Computers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computers"
+            }
+          },
+          {
+            "id": "2620e199c19bfdc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f6bb44d3303eb1e2",
+        "type": "tabs",
+        "dimension": 55.650684931506845,
+        "children": [
+          {
+            "id": "94d8604aa5f5e63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Workplace/Computers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computers"
+            }
+          },
+          {
+            "id": "b3b13c97c3219ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Workplace/Computers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computers"
+            }
+          },
+          {
+            "id": "c5b7b6151ec51315",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
           {
             "id": "7626a633627b4437",
             "type": "leaf",
@@ -120,90 +239,23 @@
             }
           },
           {
-            "id": "bec9d52713aed4f0",
+            "id": "b832f6bd6e043487",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-properties",
               "state": {
-                "file": "Note/Workplace/Phones/Phones.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Note/Workplace/Computers.md"
               },
-              "icon": "lucide-list",
-              "title": "Outline of Phones"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f6bb44d3303eb1e2",
-        "type": "tabs",
-        "dimension": 55.650684931506845,
-        "children": [
-          {
-            "id": "94d8604aa5f5e63e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Note/Workplace/Phones/Phones.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Phones"
-            }
-          },
-          {
-            "id": "b3b13c97c3219ea8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Note/Workplace/Phones/Phones.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Phones"
-            }
-          },
-          {
-            "id": "2620e199c19bfdc5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "c5b7b6151ec51315",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-info",
+              "title": "File properties for Computers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,51 +272,51 @@
   },
   "active": "2620e199c19bfdc5",
   "lastOpenFiles": [
-    "!Buffer.md",
-    "Note/Workplace/Phones/Phones.md",
+    "Tags",
+    "Note/Workplace/Computers.md",
+    "Note/Workplace/attachments/image.webp",
+    "Paradigma.md",
+    "Note/Workplace/Phones.md",
+    "Directory.md",
     "Ideation.md",
+    "Note/Encarva.md",
+    "!Buffer.md",
+    "README.md",
+    "Note/Workplace/attachments/image.png",
+    "Note/Workplace/Phones/Etc.md",
     "Note/Workplace/Phones/Untitled.md",
     "Note/Workplace/Digital Configuration.md",
-    "Note/Workplace/Computers.md",
     "Note/Workplace/Rig.md",
     "Library/F Index Library/Score.md",
     "Library/F Index Library/F Index Library.md",
     "Library/F Index Library",
     "Library/Eh.md",
     "Library/Library.md",
-    "Directory.md",
     "Library/IMG to Louvre Library.md",
-    "README.md",
-    "Note/Workplace/Phones/Etc.md",
     "Note/Words.md",
     "Note/Todo.md",
-    "Note/Encarva.md",
-    "Paradigma.md",
     "Heart/Heartology.md",
     "Heart/Directory/048 - Kanako.md",
     "Untitled",
     "Boxync",
-    "Note/Workplace/Phones/images/Pasted image 20230709121138.png",
+    "Note/Workplace/attachments/Pasted image 20230709121138.png",
     "Library",
     "Note/Workplace/Computers/Untitled",
     "Heart/Directory",
     "Note/Workplace/Computers",
     "Heart",
-    "Note/Workplace/Phones/images/Pasted image 20230608193324.png",
-    "Note/Workplace/Phones/images",
+    "Note/Workplace/attachments/Pasted image 20230608193324.png",
+    "Note/Workplace/attachments",
     "Note/Encarva/Encarva.md",
     "Note/Encarva/Workplace/Phones/Phones.md",
-    "Note/Workplace/Phones/images/Pasted image 20230608193659.png",
-    "Note/Workplace/Phones/images/Pasted image 20230608193735.png",
-    "Note/Workplace/Phones/images/Pasted image 20230608193646.png",
-    "Note/Workplace/Phones/images/Pasted image 20230608193622.png",
-    "Note/Workplace/Phones/images/Pasted image 20230608193547.png",
-    "Note/Workplace/Phones/images/Pasted image 20230608193526.png",
+    "Note/Workplace/attachments/Pasted image 20230608193659.png",
+    "Note/Workplace/attachments/Pasted image 20230608193735.png",
+    "Note/Workplace/attachments/Pasted image 20230608193646.png",
+    "Note/Workplace/attachments/Pasted image 20230608193622.png",
+    "Note/Workplace/attachments/Pasted image 20230608193547.png",
+    "Note/Workplace/attachments/Pasted image 20230608193526.png",
     "Note/Workplace/Phones",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608193735.png",
-    "Note/Encarva/Workplace/Phones/Pasted image 20230608193659.png",
     "Note/Encarva/Words.md",
-    "Pasted image 20230608192451.png.md",
-    "Note/Encarva/Workplace/Digital Configuration.md"
+    "Pasted image 20230608192451.png.md"
   ]
 }

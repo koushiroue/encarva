@@ -2,6 +2,6 @@
   "accentColor": "#f09d9d",
   "theme": "system",
   "baseFontSize": 13,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "baseFontSizeAction": true
 }

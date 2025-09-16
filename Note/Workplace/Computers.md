@@ -1,3 +1,23 @@
+
+# Laptops
+## 2024
+### Lenovo Yoga 7 (2-in-1) (14AHP9)
+![[image.webp|299x299]]
+
+CPU: AMD Ryzen 7 8840HS (2.5x)
+GPU : Radeon 780M (2.2x)
+RAM: 16GB (1.3x)
+SSD: 320GB Partitioned 1TB M.2 2240 NVME SSD (1.25x)
+## 2017 
+### Acer Swift 3 14 (SF314-54G)
+
+![[image.png]]
+
+CPU : Intel i5-8250U
+GPU: Nvidia MX150
+RAM : 4GB DDR4 (8GB - 12GB)
+SSD : 128GB (256GB) M.2 SATA SSD
+## 2019 PC Planning
 ### Case
 | Brand | Model | Price |
 |---|---|---|
