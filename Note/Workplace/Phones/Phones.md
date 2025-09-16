@@ -39,7 +39,7 @@ Adreno 330 (3.1x)
 
 ![](images/Pasted%20image%2020230608193646.png)
 
-[Lenovo S820](https://www.gsmarena.com/lenovo_s820-5486.php)
+[Lenovo S820](https://www.gsmarena.com/lenovo_s820-5486.php) 
 1GB RAM (2x)  
 4GB (10x)  
 PowerVR SGX544 (2.3x)  

@@ -35,7 +35,8 @@
               "title": "Phones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Buffer.md",
+                "file": "Note/Workplace/Phones/Phones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !Buffer"
+              "title": "Outline of Phones"
             }
           }
         ]
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Buffer.md",
+                "file": "Note/Workplace/Phones/Phones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for !Buffer"
+              "title": "Backlinks for Phones"
             }
           },
           {
@@ -165,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!Buffer.md",
+                "file": "Note/Workplace/Phones/Phones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from !Buffer"
+              "title": "Outgoing links from Phones"
             }
           },
           {
@@ -197,7 +198,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9141fd3c8d4337d",
+  "active": "2620e199c19bfdc5",
   "lastOpenFiles": [
+    "!Buffer.md",
     "Note/Workplace/Phones/Phones.md",
     "Ideation.md",
     "Note/Workplace/Phones/Untitled.md",
@@ -228,7 +231,6 @@
     "Library/F Index Library/F Index Library.md",
     "Library/F Index Library",
     "Library/Eh.md",
-    "!Buffer.md",
     "Library/Library.md",
     "Directory.md",
     "Library/IMG to Louvre Library.md",
