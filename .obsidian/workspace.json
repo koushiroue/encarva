@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Workplace/Computers.md",
+                "file": "Note/Workplace/Phones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Computers"
+              "title": "Outline of Phones"
             }
           },
           {
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Workplace/Computers.md",
+                "file": "Note/Workplace/Phones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Computers"
+              "title": "Backlinks for Phones"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Workplace/Computers.md",
+                "file": "Note/Workplace/Phones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Computers"
+              "title": "Outgoing links from Phones"
             }
           },
           {
@@ -244,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Note/Workplace/Computers.md"
+                "file": "Note/Workplace/Phones.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Computers"
+              "title": "File properties for Phones"
             }
           }
         ],
@@ -270,10 +270,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2620e199c19bfdc5",
+  "active": "364fb7cf2bb1f767",
   "lastOpenFiles": [
-    "Tags",
     "Note/Workplace/Computers.md",
+    "Tags",
     "Note/Workplace/attachments/image.webp",
     "Paradigma.md",
     "Note/Workplace/Phones.md",
@@ -315,7 +315,6 @@
     "Note/Workplace/attachments/Pasted image 20230608193622.png",
     "Note/Workplace/attachments/Pasted image 20230608193547.png",
     "Note/Workplace/attachments/Pasted image 20230608193526.png",
-    "Note/Workplace/Phones",
     "Note/Encarva/Words.md",
     "Pasted image 20230608192451.png.md"
   ]

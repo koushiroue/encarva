@@ -1,5 +1,5 @@
 ## Litera
-### [Eh](Eh.md)
+### [Eh](../Eh.md)
 
 ## Louvre
 ## Score
