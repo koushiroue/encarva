@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/F Index Library.md",
+                "file": "!Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F Index Library"
+              "title": "!Buffer"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Phones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,39 +101,8 @@
       {
         "id": "03074fea65d1dd7b",
         "type": "tabs",
+        "dimension": 44.34931506849315,
         "children": [
-          {
-            "id": "94d8604aa5f5e63e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Library/F Index Library.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for F Index Library"
-            }
-          },
-          {
-            "id": "b3b13c97c3219ea8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
           {
             "id": "7626a633627b4437",
             "type": "leaf",
@@ -142,7 +110,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -153,30 +123,104 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "!Buffer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of !Buffer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6bb44d3303eb1e2",
+        "type": "tabs",
+        "dimension": 55.650684931506845,
+        "children": [
+          {
+            "id": "94d8604aa5f5e63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!Buffer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for !Buffer"
+            }
+          },
+          {
+            "id": "b3b13c97c3219ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!Buffer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from !Buffer"
+            }
+          },
+          {
+            "id": "2620e199c19bfdc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c5b7b6151ec51315",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16f006ee1aee1fbc",
+  "active": "a9141fd3c8d4337d",
   "lastOpenFiles": [
+    "Note/Workplace/Phones/Phones.md",
+    "Ideation.md",
+    "Note/Workplace/Phones/Untitled.md",
     "Note/Workplace/Digital Configuration.md",
     "Note/Workplace/Computers.md",
     "Note/Workplace/Rig.md",
@@ -189,7 +233,6 @@
     "Directory.md",
     "Library/IMG to Louvre Library.md",
     "README.md",
-    "Note/Workplace/Phones/Phones.md",
     "Note/Workplace/Phones/Etc.md",
     "Note/Words.md",
     "Note/Todo.md",
