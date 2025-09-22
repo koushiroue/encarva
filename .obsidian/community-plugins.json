@@ -3,7 +3,13 @@
   "obsidian-advanced-new-file",
   "image-converter",
   "autofit-tabs",
-  "make-md",
   "obsidian-style-settings",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "obsidian-minimal-settings",
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "cmdr",
+  "obsidian-hider",
+  "notebook-navigator",
+  "vertical-tabs"
 ]
