@@ -4,18 +4,18 @@
 ### Lenovo Yoga 7 (2-in-1) (14AHP9)
 ![[image.webp|246x246]]
 
-CPU: AMD Ryzen 7 8840HS (2.5x)
-GPU : Radeon 780M (2.2x)
-RAM: 16GB (1.3x)
-SSD: 320GB Partitioned 1TB M.2 2240 NVME SSD (1.25x)
+CPU: AMD Ryzen 7 8840HS **(2.5x)**
+GPU : Radeon 780M **(2.2x)**
+RAM: 16GB **(1.3x)**
+SSD: 320GB Partitioned 1TB M.2 2240 NVME SSD **(1.25x)**
 ## 2017 
 ### Acer Swift 3 14 (SF314-54G)
 
-![[image.png|283x213]]
+![[attachments/swift-5.png|283x213]]
 
-CPU : Intel i5-8250U
-GPU: Nvidia MX150
-RAM : 4GB DDR4 (8GB - 12GB)
+CPU : Intel i5-8250U **(1.9x)**
+GPU: Nvidia MX150 **(4.3)**
+RAM : 4GB DDR4 (8GB - 12GB) **(3x)**
 SSD : 128GB (256GB) M.2 SATA SSD
 
 
@@ -40,10 +40,10 @@ HDD : 500GB
 || B55M PRO4 | RM449 |
 || B550M Phantom Gaming 4 | RM399 |
 ### Processor
-|Brand| Model | Price |
-|---|---|---|
-| AMD | R5 5600G | RM599 |
-|| R5 3600 | RM399 |
+| Brand | Model    | Price |
+| ----- | -------- | ----- |
+| AMD   | R5 5600G | RM599 |
+|       | R5 3600  | RM399 |
 ### Graphics
 | Brand  | Model         | Price  |
 | ------ | ------------- | ------ |
