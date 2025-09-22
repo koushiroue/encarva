@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "79126458514e7c44",
+            "id": "6ec939b70c057685",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -139,7 +139,7 @@
       {
         "id": "03074fea65d1dd7b",
         "type": "tabs",
-        "dimension": 44.34931506849315,
+        "dimension": 44.349315068493155,
         "children": [
           {
             "id": "bec9d52713aed4f0",
@@ -258,7 +258,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
