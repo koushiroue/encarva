@@ -7,14 +7,14 @@
 CPU: AMD Ryzen 7 8840HS **(2.5x)**
 GPU : Radeon 780M **(2.2x)**
 RAM: 16GB **(1.3x)**
-SSD: 320GB Partitioned 1TB M.2 2240 NVME SSD **(1.25x)**
+SSD: 320GB **(1.25x)**
 ## 2017 
 ### Acer Swift 3 14 (SF314-54G)
 
 ![[attachments/swift-5.png|283x213]]
 
 CPU : Intel i5-8250U **(1.9x)**
-GPU: Nvidia MX150 **(4.3)**
+GPU: Nvidia MX150 **(4.3x)**
 RAM : 4GB DDR4 (8GB - 12GB) **(3x)**
 SSD : 128GB (256GB) M.2 SATA SSD
 

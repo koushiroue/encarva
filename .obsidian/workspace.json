@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Workplace/Phones.md",
+                "file": "Note/Workplace/Computers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phones"
+              "title": "Outline of Computers"
             }
           },
           {
@@ -298,21 +298,20 @@
       "cmdr:Commander: Toggle Sidebars": false
     }
   },
-  "active": "5653cec51816e8aa",
+  "active": "0ff359935a939a3c",
   "lastOpenFiles": [
+    "Note/Workplace/Phones.md",
+    "Note/Workplace/Computers.md",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
     "Note/Workplace/attachments/phone-vivo.png",
     "Note/Workplace/attachments/phone-poco.png",
     "Note/Workplace/attachments/phone-oppo-n3.png",
     "Note/Workplace/attachments/phone-lenovo.png",
-    "Note/Workplace/Computers.md",
-    "Note/Workplace/Phones.md",
     "Note/Workplace/attachments/phoone-samsung-a51.webp",
     "Note/Workplace/attachments/phone-xperia-mini-pro.webp",
     "Note/Workplace/attachments/phone-vivo.webp",
     "Note/Workplace/attachments/phone-poco.webp",
-    "Note/Workplace/attachments/phone-oppo-n3.webp",
     "Paradigma.md",
     "!Buffer.md",
     "Note/Workplace/attachments/phoone-samsung-a51.original",
