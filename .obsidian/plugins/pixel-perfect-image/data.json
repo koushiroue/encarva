@@ -1,0 +1,25 @@
+{
+  "toggleIndividualMenuOptions": false,
+  "showFileInfo": true,
+  "showShowInFileExplorer": true,
+  "showRenameOption": true,
+  "showDeleteImageOption": true,
+  "showOpenInNewTab": true,
+  "showOpenInDefaultApp": true,
+  "customResizeSizes": [
+    "25%",
+    "50%",
+    "100%",
+    "240px"
+  ],
+  "cmdCtrlClickBehavior": "do-nothing",
+  "enableWheelZoom": true,
+  "wheelModifierKey": "Alt",
+  "wheelZoomPercentage": 20,
+  "invertScrollDirection": false,
+  "externalEditorName": "",
+  "externalEditorPathMac": "",
+  "externalEditorPathWin": "",
+  "confirmBeforeDelete": true,
+  "debugMode": false
+}

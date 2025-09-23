@@ -1,0 +1,11 @@
+img[alt*="left"] {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+img[alt*="right"] {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}

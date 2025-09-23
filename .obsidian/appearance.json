@@ -4,5 +4,10 @@
   "baseFontSize": 13,
   "cssTheme": "Minimal",
   "baseFontSizeAction": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "image-align",
+    "justify-live-preview",
+    "justify-reading-mode"
+  ]
 }
