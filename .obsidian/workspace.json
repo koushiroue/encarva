@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Buffer.md",
+                "file": "Note/Workplace/Computers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Buffer"
+              "title": "Computers"
             }
           },
           {
@@ -84,8 +84,7 @@
               "title": "to-do"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md",
+                "file": "Note/Workplace/Computers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to-do"
+              "title": "Outline of Computers"
             }
           },
           {
@@ -313,13 +312,13 @@
       "cmdr:Commander: Toggle Sidebars": false
     }
   },
-  "active": "5d942348bead7866",
+  "active": "0ff359935a939a3c",
   "lastOpenFiles": [
+    "Note/Workplace/Phones.md",
+    "Note/Workplace/Computers.md",
     "!Buffer.md",
     "to-do.md",
-    "Note/Workplace/Computers.md",
     "Untitled",
-    "Note/Workplace/Phones.md",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
     "Note/Workplace/attachments/phone-vivo.png",

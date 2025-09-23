@@ -2,7 +2,7 @@
 # Laptops
 ## 2024
 ### Lenovo Yoga 7 (2-in-1) (14AHP9)
-![[image.webp|246x246]]
+![[image.webp|240]]
 
 CPU: AMD Ryzen 7 8840HS **(2.5x)**
 GPU : Radeon 780M **(2.2x)**
@@ -11,7 +11,7 @@ SSD: 320GB **(1.25x)**
 ## 2017 
 ### Acer Swift 3 14 (SF314-54G)
 
-![[attachments/swift-5.png|283x213]]
+![[attachments/swift-5.png|240]]
 
 CPU : Intel i5-8250U **(1.9x)**
 GPU: Nvidia MX150 **(4.3x)**
