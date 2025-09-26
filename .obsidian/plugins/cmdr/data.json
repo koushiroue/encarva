@@ -4,12 +4,35 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open settings",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "action": 0,
+          "commandId": "app:toggle-right-sidebar"
+        }
+      ],
+      "name": "Toggle Sidebar",
+      "icon": "lucide-arrow-left-right",
+      "startup": false
+    }
+  ],
   "explorer": [],
   "hide": {
     "statusbar": [],
