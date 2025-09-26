@@ -16,9 +16,13 @@ SSD: 320GB **(1.25x)**
 CPU : Intel i5-8250U **(1.9x)**
 GPU: Nvidia MX150 **(4.3x)**
 RAM : 4GB DDR4 (8GB - 12GB) **(3x)**
-SSD : 128GB (256GB) M.2 SATA SSD **(8x)**
+SSD : 128GB (256GB) M.2 SATA SSD **(2x)**
 
-
+## 2013
+CPU : Intel i5-4210U **(1x)**
+GPU : HD4400
+RAM : 4GB DDR3 (16GB) **(1x)**
+HDD : 500GB (128GB) **(8x)**
 ## 2011
 CPU : Intel i5-2410M
 GPU : HD3000
