@@ -84,7 +84,8 @@
               "title": "to-do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Workplace/Computers.md",
+                "file": "to-do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Computers"
+              "title": "Outline of to-do"
             }
           },
           {
@@ -311,7 +312,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0cd98537575fd0a1",
+  "active": "5d942348bead7866",
   "lastOpenFiles": [
     "Note/Workplace/Phones.md",
     "Note/Workplace/Computers.md",
