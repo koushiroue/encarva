@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Workplace/Rig.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rig"
+              "title": "Outline of README"
             }
           }
         ]
@@ -244,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Note/Workplace/Rig.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Rig"
+              "title": "File properties for README"
             }
           },
           {
@@ -355,8 +355,9 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "e8d9a35daef306d1",
+  "active": "10f0ad13ce25b440",
   "lastOpenFiles": [
+    "Note/Workplace/Rig.md",
     "Note/Workplace/Phones.md",
     "README.md",
     "Untitled.md",
@@ -390,7 +391,6 @@
     "Note/Workplace/Phones/Etc.md",
     "Note/Workplace/Phones/Untitled.md",
     "Note/Workplace/Digital Configuration.md",
-    "Note/Workplace/Rig.md",
     "Library/F Index Library/Score.md",
     "Library/F Index Library/F Index Library.md",
     "Library/F Index Library",
