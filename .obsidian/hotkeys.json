@@ -12,5 +12,16 @@
       ],
       "key": "Tab"
     }
+<<<<<<< HEAD
+=======
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+>>>>>>> origin/main
   ]
 }
