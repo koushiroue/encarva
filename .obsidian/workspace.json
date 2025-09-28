@@ -374,7 +374,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -396,7 +397,7 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "b832f6bd6e043487",
+  "active": "2620e199c19bfdc5",
   "lastOpenFiles": [
     "drives/2025/CEL512.md",
     "drives/drive list.md",
