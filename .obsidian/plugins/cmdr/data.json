@@ -4,12 +4,35 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-arrow-left-right",
+      "name": "Commander: Toggle Sidebars",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "action": 0,
+          "commandId": "app:toggle-right-sidebar"
+        }
+      ],
+      "name": "Toggle Sidebars",
+      "icon": "lucide-arrow-left-right",
+      "startup": false
+    }
+  ],
   "explorer": [],
   "hide": {
     "statusbar": [],

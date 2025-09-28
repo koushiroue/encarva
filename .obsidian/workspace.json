@@ -83,9 +83,23 @@
               "icon": "lucide-file",
               "title": "to-do"
             }
+          },
+          {
+            "id": "5558618d1ea3ef1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,8 +158,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -159,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to-do"
+              "title": "Outline of README"
             }
           },
           {
@@ -195,8 +209,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -309,15 +323,17 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notebook-navigator:Notebook Navigator": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "cmdr:Commander: Toggle Sidebars": false
     }
   },
-  "active": "5d942348bead7866",
+  "active": "5558618d1ea3ef1b",
   "lastOpenFiles": [
+    "Note/Encarva.md",
+    "to-do.md",
     "Note/Workplace/Phones.md",
     "Note/Workplace/Computers.md",
     "!Buffer.md",
-    "to-do.md",
     "Untitled",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
@@ -340,7 +356,6 @@
     "README.md",
     "Tags",
     "Ideation.md",
-    "Note/Encarva.md",
     "Note/Workplace/Phones/Etc.md",
     "Note/Workplace/Phones/Untitled.md",
     "Note/Workplace/Digital Configuration.md",

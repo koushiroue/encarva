@@ -4,5 +4,13 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
