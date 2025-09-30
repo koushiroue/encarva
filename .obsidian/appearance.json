@@ -7,7 +7,6 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "image-align",
-    "justify-live-preview",
     "justify-reading-mode"
   ]
 }

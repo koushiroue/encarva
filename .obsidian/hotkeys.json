@@ -12,8 +12,6 @@
       ],
       "key": "Tab"
     }
-<<<<<<< HEAD
-=======
   ],
   "editor:toggle-source": [
     {
@@ -22,6 +20,5 @@
       ],
       "key": "E"
     }
->>>>>>> origin/main
   ]
 }

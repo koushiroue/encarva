@@ -1,0 +1,11 @@
+com.appmindlab.nano.pref_auto_save|false
+com.appmindlab.nano.pref_copy_attachments_to_repo|false
+com.appmindlab.nano.pref_custom_filters|all;starred;A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z
+com.appmindlab.nano.pref_incremental_backup|false
+com.appmindlab.nano.pref_lazy_update|false
+com.appmindlab.nano.pref_location_aware|true
+com.appmindlab.nano.pref_lux|true
+com.appmindlab.nano.pref_margin|8
+com.appmindlab.nano.pref_math_url|https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+com.appmindlab.nano.pref_show_hidden|false
+com.appmindlab.nano.pref_theme|night

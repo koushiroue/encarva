@@ -6,15 +6,21 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-<<<<<<< HEAD
       "id": "cmdr:macro-0",
       "icon": "lucide-arrow-left-right",
       "name": "Commander: Toggle Sidebars",
-=======
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "Toggle Live Preview/Source mode",
+      "mode": "any"
+    },
+    {
       "id": "app:open-settings",
       "icon": "lucide-settings",
       "name": "Open settings",
->>>>>>> origin/main
       "mode": "any"
     }
   ],
@@ -34,11 +40,7 @@
           "commandId": "app:toggle-right-sidebar"
         }
       ],
-<<<<<<< HEAD
       "name": "Toggle Sidebars",
-=======
-      "name": "Toggle Sidebar",
->>>>>>> origin/main
       "icon": "lucide-arrow-left-right",
       "startup": false
     }
