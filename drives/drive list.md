@@ -25,3 +25,5 @@ tags:
 | 2019 | `CELHGST`      | Cel's X230T    | HDD     | 500GB       |
 | 2018 | `CELWDHDD`     | Cel's WDHDD    | HDD     | 1TB         |
 | 2017 | `CELSEXHDD`    | Cel's ExHDD    | HDD     | 1TB         |
+| 2017 | `CELSCRADLE`   | Cel's Cradle   | USB     | 32GB        |
+| 2016 | `CELMICRSD8G`  |                | MicroSD | 8GB         |

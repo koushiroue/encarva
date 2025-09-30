@@ -1,0 +1,13 @@
+OCT
+02
+
+-delete "liplog.txt"
+-moved irrelevant lip project to "/!fanart".
+-all reference of said "fanart" in log, config files have been omitted.
+-punchcard displays lip releases chronologically, regardless of fanart status.
+
+
+AUG
+06
+
+-Simplified "placeholder" project folder.
