@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drives/drive list.md",
+                "file": "archive/logs/CELSEXHDD-DIR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drive list"
+              "title": "CELSEXHDD-DIR"
             }
           },
           {
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drives/drive list.md",
+                "file": "archive/note-xii/note-xii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of drive list"
+              "title": "Outline of note-xii"
             }
           },
           {
@@ -312,10 +312,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "drives/drive list.md"
+                "file": "archive/note-xii/note-xii.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for drive list"
+              "title": "File properties for note-xii"
             }
           },
           {
@@ -343,12 +343,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drives/drive list.md",
+                "file": "archive/note-xii/note-xii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from drive list"
+              "title": "Outgoing links from note-xii"
             }
           },
           {
@@ -414,13 +414,22 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "caa139348905d1ac",
+  "active": "7dc1d65e92caa88d",
   "lastOpenFiles": [
+    "archive/note-xv/note-xv.md",
+    "archive/note-xii/note-xii.md",
+    "to-do.md",
+    "archive/logs/CELSEXHDD-DIR.md",
+    "archive/logs/imported/!!!DIR.txt",
+    "archive/logs/imported/!!!LOG(2017-2018).txt",
+    "archive/logs/imported/!!!LOG(2019).log",
+    "archive/logs/imported",
+    "archive/logs/New folder",
+    "drives/drive list.md",
     "archive/true-timeline.md",
     "archive/logs/log-2019.md",
     "archive/logs/!!!LOG(2019).log",
     "archive/logs/log-2017-2018.md",
-    "to-do.md",
     "archive/logs/!!!LOG(2017-2018).txt",
     "changelog.md",
     "archive/logs",
@@ -428,18 +437,11 @@
     "archive/note-xiv/note-xiv.md",
     "Note/References",
     "archive/timeline.md",
-    "archive/note-xii/note-xii.md",
     "archive/note-xii/The Portrayal .txt",
-    "archive/note-xii/Term Coinage.txt",
-    "archive/note-xii/~neutrinote_shortcuts.txt",
-    "archive/note-xii/~neutrinote_settings_data.txt",
-    "archive/note-xii/~neutrinote_app_data.txt",
-    "archive/note-xii/trove.txt",
     "README.md",
     "Note/Encarva.md",
     "conflict-files-obsidian-git.md",
     "drives/2025/CEL512.md",
-    "drives/drive list.md",
     "attachments/encarva2.png",
     "Note/Workplace/Phones.md",
     "Note/Workplace/Computers.md",
@@ -459,7 +461,6 @@
     "Note/Workplace/Phones/Etc.md",
     "Note/Workplace/Phones/Untitled.md",
     "Note/Workplace/Digital Configuration.md",
-    "Note/Workplace/Rig.md",
-    "Library/F Index Library/Score.md"
+    "Note/Workplace/Rig.md"
   ]
 }
