@@ -5,20 +5,20 @@
       "key": "F5"
     }
   ],
-  "cmdr:macro-0": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ],
   "editor:toggle-source": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "E"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
     }
   ]
 }
