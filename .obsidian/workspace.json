@@ -168,7 +168,8 @@
               "title": "to-do"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drives/2025/CEL512.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEL512"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -285,10 +286,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "drives/2025/CEL512.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for CEL512"
+              "title": "File properties for conflict-files-obsidian-git"
             }
           },
           {
@@ -378,7 +379,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,22 +397,35 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0cd98537575fd0a1",
+  "active": "2620e199c19bfdc5",
   "lastOpenFiles": [
-    "drives/drive list.md",
     "drives/2025/CEL512.md",
-    "drives/2025",
-    "drives/attachments/sd512.ico",
-    "drives/attachments",
+    "conflict-files-obsidian-git.md",
+    "archive/true-timeline.md",
+    "archive/note/note-xv/!note/notelog.txt",
+    "archive/note/note-xv/!note/!XV.ico",
+    "archive/note/note-xv/!note/!ico.ico",
+    "archive/note/note-xv/!note/desktop.ini",
+    "archive/note/note-xv/note-xv.md",
+    "archive/note/note-xiv/note-xiv.md",
+    "archive/note/note-xv/!note",
+    "archive/note/note-xii/~neutrinote_settings_data.txt",
+    "archive/note/note-xii/~neutrinote_shortcuts.txt",
+    "archive/note/note-xiv/!!!LOG.txt",
+    "archive/note/note-xii/~neutrinote_app_data.txt",
+    "archive/note/note-xii/trove.txt",
+    "archive/note/note-xii/note-xii.md",
+    "archive/logs/log-2019.md",
+    "archive/logs/log-2017-2018.md",
+    "archive/logs/CELSEXHDD-DIR.md",
+    "Note/References/Libs.md",
+    "drives/drive list.md",
     "changelog.md",
-    "drives",
     "README.md",
     "Note/Workplace/Rig.md",
     "Note/Workplace/Phones.md",
-    "attachments",
     "archive/timeline.md",
     "attachments/encarva2.png",
-    "archive",
     "to-do.md",
     "Note/Workplace/Computers.md",
     "!Buffer.md",
@@ -425,23 +439,11 @@
     "Note/Workplace/attachments/phone-xperia-mini-pro.webp",
     "Note/Workplace/attachments/phone-vivo.webp",
     "Paradigma.md",
-    "Note/Workplace/attachments/phoone-samsung-a51.original",
-    "Note/Workplace/attachments/phone-vivo.original",
-    "Note/Workplace/attachments/phone-lenovo.original",
-    "Note/Workplace/attachments/phone-oppo-n3.original",
     "Directory.md",
     "Ideation.md",
     "Note/Encarva.md",
     "Note/Workplace/Phones/Etc.md",
     "Note/Workplace/Phones/Untitled.md",
-    "Note/Workplace/Digital Configuration.md",
-    "Library/F Index Library/Score.md",
-    "Library/F Index Library/F Index Library.md",
-    "Library/Eh.md",
-    "Library/Library.md",
-    "Library/IMG to Louvre Library.md",
-    "Note/Words.md",
-    "Note/Todo.md",
-    "Heart/Heartology.md"
+    "Note/Workplace/Digital Configuration.md"
   ]
 }

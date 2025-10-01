@@ -21,4 +21,9 @@ tags:
 | 2020 | `CELNVME`      |                | NVME    | 256GB       |
 | 2020 | `CELMSATA`     |                | MSATA   | 240GB       |
 | 2020 | `CELMICROSD64` |                | MicroSD | 64GB        |
-|      |                |                |         |             |
+| 2019 | `VENTOY32`     | Cel's Ventoy   | HDD     | 32GB        |
+| 2019 | `CELHGST`      | Cel's X230T    | HDD     | 500GB       |
+| 2018 | `CELWDHDD`     | Cel's WDHDD    | HDD     | 1TB         |
+| 2017 | `CELSEXHDD`    | Cel's ExHDD    | HDD     | 1TB         |
+| 2017 | `CELSCRADLE`   | Cel's Cradle   | USB     | 32GB        |
+| 2016 | `CELMICRSD8G`  |                | MicroSD | 8GB         |

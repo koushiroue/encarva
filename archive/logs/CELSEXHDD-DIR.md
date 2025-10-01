@@ -1,0 +1,94 @@
+# !!!DIR
+## Main
+Cel
+
+This Drive is Labeled As G:/.
+Please Change the Drive Label to G:/ to Prevent from Error such as Broken Shortcut.
+
+Drive Status :
+
+Capacity		: 931 GigaBytes (1,000,202,039,296 Bytes)
+Filesystem 		: NTFS
+
+
+StoreJet 25M3
+
+Specification :
+
+Storage Media 		: 2.5" SATA Hard Disk Drive
+Operating Temperature 	: 5 C (41 F) to 55 C (131 F)
+LED Indicator		: Power On , Busy Status
+Connection Inteface	: USB 3.0 / USB 2.0
+Power Supply		: 5V DC from USB Port
+Drop Test Method	: MIL-STD-810G, Method 516.6, Proc. IV
+
+---
+
+Last Updated : 06/03/2018 1620
+
+Main Folders : 
+
+(01)	!Eastern Legion
+(02)	!EvilZ
+(03)	!Knuzuth
+			!Flying Radio
+			!Heart Sanitizer
+			!Kirb
+			!Lewd Shrine
+(04)	!Note XIV
+(05)	Cel's Containment Pack
+(06)	Duwang Board
+			!Cabinet
+			!Shelf
+(07)	Eastern Literature
+			!Extra Eastern
+(08)	HALL
+(09)	Laboratory
+(10)	Rips
+(11)	Save The Sav
+(12)	Score
+			!Studio
+			!Trishaw Room
+(13)	Stem
+(14)	Tool-Assisted Nigra
+(15)	Tridges
+(16)	Utencil
+		!Attic
+!!!DIR
+!!!LOG
+
+---
+## Softwares
+### Laboratory
+
+| Software             | Version       | Date Updated |
+| -------------------- | ------------- | ------------ |
+| AdiIRC               |               |              |
+| Discord              | app-0.0.300   | 06/03/2018   |
+| Discord Canary       | app-0.0.203   | 06/03/2018   |
+| DropIt Portable      | 8.4           |              |
+| GoogleChromePortable | 64.0.3282.119 |              |
+| Mozzila Firefox      |               |              |
+| Opera                |               |              |
+| Palemoon Portable    | 27.6.2        |              |
+| Palemoon             | 28.2.1        | 17/11/2018   |
+| Itch.io Client       | V23.6.1       | 06/03/2018   |
+| QBitTorrent          | 4.0.4         | 06/03/2018   |
+### Duwang Board
+
+| Software | Version | Date Updated |
+| -------- | ------- | ------------ |
+| Drawpile | 2.0.10  | 02/04/2018   |
+| KDenlive | 17.12.0 | 15/04/2018   |
+### Score
+
+| Software   | Version      | Date Updated |
+| ---------- | ------------ | ------------ |
+| Audacity   | 2.2.0        | 06/03/2018   |
+| Fre:ac     | v1.2 alpha   | 22/04/2018   |
+| Foobar2000 | v1.4 beta 12 | 06/05/2018   |
+### Utencils
+
+| Software           | Version | Date Updated |
+| ------------------ | ------- | ------------ |
+| BleachBit Portable | 2.0     | 06/03/2018   |

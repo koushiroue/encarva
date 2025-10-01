@@ -8,5 +8,6 @@
   "spellcheck": false,
   "promptDelete": false,
   "strictLineBreaks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
 }
