@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Note/Workplace/Computers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Computers"
             }
           }
         ]
@@ -286,10 +286,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Note/Workplace/Computers.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for conflict-files-obsidian-git"
+              "title": "File properties for Computers"
             }
           },
           {
@@ -397,10 +397,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2620e199c19bfdc5",
+  "active": "0ff359935a939a3c",
   "lastOpenFiles": [
-    "drives/2025/CEL512.md",
     "conflict-files-obsidian-git.md",
+    "drives/2025/CEL512.md",
     "archive/true-timeline.md",
     "archive/note/note-xv/!note/notelog.txt",
     "archive/note/note-xv/!note/!XV.ico",
