@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "d93ba80689c50e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "changelog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "changelog"
+            }
+          },
+          {
             "id": "a504eb58b81bc9f0",
             "type": "leaf",
             "state": {
@@ -50,83 +64,6 @@
             }
           },
           {
-            "id": "e8d9a35daef306d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/Workplace/Rig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rig"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "461d156c08ef4aef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d37a6ed43979b3ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drives/2025/CEL512.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CEL512"
-            }
-          },
-          {
-            "id": "d93ba80689c50e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "changelog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "changelog"
-            }
-          },
-          {
-            "id": "8d17ad402ef565f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "changelog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "changelog"
-            }
-          },
-          {
-            "id": "0ff359935a939a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/Workplace/Computers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computers"
-            }
-          },
-          {
             "id": "10f0ad13ce25b440",
             "type": "leaf",
             "state": {
@@ -138,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "e8d9a35daef306d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Workplace/Rig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rig"
             }
           },
           {
@@ -155,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,8 +165,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -229,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Workplace/Rig.md",
+                "file": "Note/Workplace/Phones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rig"
+              "title": "Outline of Phones"
             }
           }
         ]
@@ -272,10 +223,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Note/Workplace/Rig.md"
+                "file": "Note/Workplace/Phones.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Rig"
+              "title": "File properties for Phones"
             }
           },
           {
@@ -356,11 +307,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -384,15 +336,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0cd98537575fd0a1",
+  "active": "aeb6d1e2e127c9ad",
   "lastOpenFiles": [
+    "README.md",
+    "archive/timeline.md",
+    "changelog.md",
+    "drives/2025/CEL512.md",
+    "Note/Workplace/Rig.md",
     "Directory.md",
     "Ideation.md",
     "Paradigma.md",
     "to-do.md",
     "Note/Workplace/Computers.md",
     "conflict-files-obsidian-git.md",
-    "drives/2025/CEL512.md",
     "archive/true-timeline.md",
     "archive/note/note-xv/!note/notelog.txt",
     "archive/note/note-xv/!note/!XV.ico",
@@ -412,11 +368,7 @@
     "archive/logs/CELSEXHDD-DIR.md",
     "Note/References/Libs.md",
     "drives/drive list.md",
-    "changelog.md",
-    "README.md",
-    "Note/Workplace/Rig.md",
     "Note/Workplace/Phones.md",
-    "archive/timeline.md",
     "attachments/encarva2.png",
     "!Buffer.md",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
