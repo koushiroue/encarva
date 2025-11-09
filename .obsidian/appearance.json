@@ -1,8 +1,8 @@
 {
   "accentColor": "#97a6c3",
   "theme": "system",
-  "baseFontSize": 13,
-  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "cssTheme": "",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "enabledCssSnippets": [
