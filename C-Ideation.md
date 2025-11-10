@@ -6,10 +6,11 @@ A Lone Signman, A Disaster Prevention Division Groups of men,  under the snowsto
 
 
 ### THEME
-HOPECORE / SUSPENSE
+ SUSPENSE / 
 
-The theme of useing the power of the people / culture / festival to clear the heavily damaging weather and prevent the collapsing world of white snow
+~~The theme of useing the power of the people / culture / festival to clear the heavily damaging weather and prevent the collapsing world of white snow~~
 
+The theme of man / robot gaining sentience and fulfills its purpose against all odds of heavy snowstorm to light up the beacon (causal effect) clears the storm
 
 
 WHO
@@ -23,7 +24,6 @@ Signboard has facial features
 - Tsukumogami
 - Snow bring it life
 - Lighthouse Tower act as a failsafe towards the calamity
-
 
 Lighthouse- man
 - "Disaster Prevention Division" Government of people
@@ -41,13 +41,19 @@ Lighthouse- man
 ### Obstacle
  - Snowstorm caused by the gods
  - Bro is in calamity mode (red sky / hue)
+ - Tower Interior is damaged by the storm
+ - 
 ### Stake
 - Snow Festival or whatever helps regulate the weather of snow
 - Without people to direct, snowstorm will keep piling on
 - End of the Festival means end of the world
 - Idk any other steak
 
-
+### Resolve
+- Lighthouse is lit — providing visible light and heat to the area.
+- the snow storm is subsided.
+- ~~the "Snow" in question is a moth-like creature providing freezing essence~~
+- 
 
 ### INITIAL STORYLINE
 #### Timeline Board
@@ -80,22 +86,25 @@ mayro odyssey sand kingdom
 
 - mood board
 - red hue suggests a calamity of some kind
-![[image-1.webp|348x232]]
+![[image-1.webp|290x193]]
 
 ### Movie Referes
 - Tom Cruise Mission Impossible 
 
 ### Ice Age
 - this one is ice age bcz its neatiness
-![[image-2.webp|343x200]]
+![[image-2.webp|292x170]]
 
 ### The Legend of Zelda : Majora Mask
 - Snowhead temple
 - major inspiration 
 - Snowhead temple in hail and blizzard weather, clearing the temple clears out the foggy weatehr
-![[image-3.webp|388x232]]
+![[image-3.webp|281x169]]
 ### Render Style
 idk maybe ice age
+
+### Dog Man Red Hue Render
+![[image-5.webp|318x179]]
 
 
 #### Character References
