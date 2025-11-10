@@ -52,8 +52,10 @@ Lighthouse- man
 ### Resolve
 - Lighthouse is lit — providing visible light and heat to the area.
 - the snow storm is subsided.
-- ~~the "Snow" in question is a moth-like creature providing freezing essence~~
+- ~~the "Snow" in question is a bunch of millions moth-like creature with cotton exterior providing freezing essence~~
 - 
+
+
 
 ### INITIAL STORYLINE
 #### Timeline Board
