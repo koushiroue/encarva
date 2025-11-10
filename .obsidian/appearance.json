@@ -1,12 +1,11 @@
 {
   "accentColor": "#97a6c3",
   "theme": "system",
-  "baseFontSize": 16,
-  "cssTheme": "",
+  "baseFontSize": 13,
+  "cssTheme": "Minimal",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "image-align",
     "justify-reading-mode"
   ]
 }
