@@ -1,18 +1,29 @@
 
 # 1.) Ideation of Snow Show
-Last Employed Signman clearing out road of heavy snowstorms (Major Stake) in turn of Direction tourists to Yulsegiving Festival (Impossible) (Goal) 
+Last Employed Signman clearing out road of heavy snowstorms (Major Stake) in turn of Directioning tourists to Yulsegiving Festival (Impossible) (Goal) 
+
 
 
 ### THEME
-HOPECORE / 
-The theme of useing the power of the people / culture / festival to defeat the heavily damaging weather and prevent the collapsing world of white snow
+HOPECORE / SUSPENSE
+
+The theme of useing the power of the people / culture / festival to clear the heavily damaging weather and prevent the collapsing world of white snow
+
+
 
 WHO
 ### Protagonist 
 
 Signman  - Last Signmens
-- "Dissaster Prevention Division" Government of people
-- Only one Signman left in the region
+"Kind of sign' , Kind of Man" james baxter type design
+- Tsukumogami
+- Snow bring it life
+- Lighthouse Tower act as a failsafe towards the calamity
+
+
+Lighthouse- man
+- "Disaster Prevention Division" Government of people
+- ~~Only one Signman left in the region~~ *canned*
 - Ability to Direct / Misdirect misfortune / flow of attack
 
 
@@ -26,14 +37,15 @@ Signman  - Last Signmens
  - Snowstorm caused by the gods
  - Bro is in calamity mode (red sky / hue)
 ### Stake
-- Snow Festival or whatever helping regulate the weather of snow
+- Snow Festival or whatever helps regulate the weather of snow
+- Without people to direct, snowstorm will keep piling on
 - End of the Festival means end of the world
 - Idk any other steak
 
 
 
-
-### Timeline Board
+### INITIAL STORYLINE
+#### Timeline Board
 
 Scene starts in interior
 0 - 10 
@@ -54,6 +66,7 @@ Clear out the snow
 ## Refs
 
 ### Reasonables
+### Renders
 mayro odyssey sand kingdom
 - expectiation - dessert = heat
 - reality - dessert with cold weather 
@@ -67,10 +80,19 @@ mayro odyssey sand kingdom
 - this one is ice age bcz its neatiness
 ![[image-2.webp|343x200]]
 
-
-## Render Style
+### Movie Referes
+- Tom Cruise Mission Impossible 
+- 
+### Render Style
 idk maybe ice age
 
+
+#### Character References
+#### Prop References
+#### Lighting References
+#### Render References
+
+### Initial Sketches
 # 2.) Ideation of idk 
 
 
