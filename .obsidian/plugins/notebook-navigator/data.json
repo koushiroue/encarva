@@ -1,11 +1,11 @@
 {
-  "fileVisibility": "documents",
+  "fileVisibility": "supported",
   "excludedFolders": [],
   "excludedFiles": [],
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
-  "startView": "navigation",
+  "startView": "files",
   "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
@@ -267,14 +267,9 @@
   "tagAppearances": {},
   "recentColors": [],
   "lastShownVersion": "",
-  "latestKnownRelease": "1.8.4",
+  "latestKnownRelease": "",
   "lastAnnouncedRelease": "",
-  "lastReleaseCheckAt": 1763306455721,
+  "lastReleaseCheckAt": null,
   "rootFolderOrder": [],
-  "rootTagOrder": [],
-  "showTagsAboveFolders": false,
-  "showFavoriteTagsFolder": true,
-  "showUntaggedInFavorites": false,
-  "favoriteTags": [],
-  "settingsVersion": 1
+  "rootTagOrder": []
 }

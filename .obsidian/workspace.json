@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Ideation.md",
+                "file": "Paradigma.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C-Ideation"
+              "title": "Outline of Paradigma"
             }
           }
         ]
@@ -336,8 +336,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0cd98537575fd0a1",
+  "active": "a504eb58b81bc9f0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "C-Ideation.md",
+    "Works/Keeb/CEL2-k8 jis F24_Wrap vial.vil",
+    "Works/Keeb/CEL-k8 jis F24_Wrap vial.vil",
+    "Works/Keeb",
+    "Works",
     "attachments/image-5.webp",
     "attachments/image-4.webp",
     "attachments/image-3.webp",
@@ -345,7 +351,6 @@
     "attachments/image-1.webp",
     "attachments/image.webp",
     "README.md",
-    "C-Ideation.md",
     "Paradigma.md",
     "Note/Workplace/Phones.md",
     "archive/timeline.md",
@@ -356,7 +361,6 @@
     "Ideation.md",
     "to-do.md",
     "Note/Workplace/Computers.md",
-    "conflict-files-obsidian-git.md",
     "archive/true-timeline.md",
     "archive/note/note-xv/!note/notelog.txt",
     "archive/note/note-xv/!note/!XV.ico",
@@ -366,10 +370,6 @@
     "archive/note/note-xiv/note-xiv.md",
     "archive/note/note-xv/!note",
     "archive/note/note-xii/~neutrinote_settings_data.txt",
-    "archive/note/note-xii/~neutrinote_shortcuts.txt",
-    "archive/note/note-xiv/!!!LOG.txt",
-    "archive/note/note-xii/~neutrinote_app_data.txt",
-    "archive/note/note-xii/trove.txt",
     "archive/note/note-xii/note-xii.md",
     "archive/logs/log-2019.md",
     "archive/logs/log-2017-2018.md",
@@ -381,7 +381,6 @@
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
     "Note/Workplace/attachments/phone-vivo.png",
-    "Note/Workplace/attachments/phone-poco.png",
     "Note/Encarva.md",
     "Note/Workplace/Phones/Etc.md"
   ]
