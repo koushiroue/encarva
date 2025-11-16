@@ -320,8 +320,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Commander: Toggle Sidebars": false,
-      "cmdr:Toggle Live Preview/Source mode": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -331,9 +329,11 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "cmdr:Open settings": false,
       "notebook-navigator:Notebook Navigator": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "cmdr:Commander: Toggle Sidebars": false,
+      "cmdr:Toggle Live Preview/Source mode": false,
+      "cmdr:Open settings": false
     }
   },
   "active": "fcbc1a91fb9f8002",

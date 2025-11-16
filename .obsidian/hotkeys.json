@@ -16,9 +16,9 @@
   "cmdr:macro-0": [
     {
       "modifiers": [
-        "Alt"
+        "Shift"
       ],
-      "key": "1"
+      "key": "Tab"
     }
   ]
 }
