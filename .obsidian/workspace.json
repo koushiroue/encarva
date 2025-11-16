@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changelog.md",
+                "file": "Note/Workplace/Phones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of changelog"
+              "title": "Outline of Phones"
             }
           },
           {
@@ -242,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "changelog.md"
+                "file": "Note/Workplace/Phones.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for changelog"
+              "title": "File properties for Phones"
             }
           },
           {
