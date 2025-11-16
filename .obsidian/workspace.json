@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigma.md",
+                "file": "C-Ideation.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paradigma"
+              "title": "Outline of C-Ideation"
             }
           }
         ]
@@ -336,10 +336,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a504eb58b81bc9f0",
+  "active": "fcbc1a91fb9f8002",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "changelog.md",
     "C-Ideation.md",
+    "Paradigma.md",
+    "conflict-files-obsidian-git.md",
     "Works/Keeb/CEL2-k8 jis F24_Wrap vial.vil",
     "Works/Keeb/CEL-k8 jis F24_Wrap vial.vil",
     "Works/Keeb",
@@ -351,10 +353,8 @@
     "attachments/image-1.webp",
     "attachments/image.webp",
     "README.md",
-    "Paradigma.md",
     "Note/Workplace/Phones.md",
     "archive/timeline.md",
-    "changelog.md",
     "drives/2025/CEL512.md",
     "Note/Workplace/Rig.md",
     "Directory.md",
