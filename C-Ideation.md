@@ -126,12 +126,9 @@ Scene take palce in waning sun - sunset
 
 
 
-# 2.) Ideation of idk 
 
 
 
-
-
-
+# P
 
 
