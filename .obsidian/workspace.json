@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Ideation.md",
+                "file": "changelog.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C-Ideation"
+              "title": "Outline of changelog"
             }
           }
         ]
