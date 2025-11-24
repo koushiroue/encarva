@@ -139,24 +139,45 @@ A Lone Keeper of the Lighthouse, under the upcoming the calamity of snowstorm, m
 behind the scene
 
 
-# 3 Act Structure
+### 3 Act Structure
 
-## Act 1
-### Normal World
+### Act 1
+#### Normal World
 _ is sleeping
-
-## Act 2
-### Initing Incident
-is 
-
-### Mid point 
+Chamber level
 
 
-### Climax
+### Act 2
+#### Initing Incident
+_ is getting blasted away
+Lighthouse Warning System
+Gets up and walks the stairway
+
+Door is frozen, requires (PUSH / PULL)
+Enters the middle level
+Camera pans to the horrid environment
+Decorations and Blockade of the snows piling up
+
+Keeper waving throught the pile as the storm pushes againts him
 
 
-## Act 3
-### End
+
+#### Mid point 
+
+Middle level - 
+
+
+_ manages to get through
+Top Level
+
+### Act 3
+#### Climax
+Lever is frozen
+may or may not use PUSH / PULL / LIFT idk whats left
+
+
+
+
 
 
 

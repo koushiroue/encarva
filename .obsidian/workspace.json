@@ -224,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Note/Workplace/Phones.md"
+                "file": "C-Ideation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Phones"
+              "title": "File properties for C-Ideation"
             }
           },
           {
@@ -312,8 +312,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -337,7 +336,7 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "ed281b3d0630242e",
+  "active": "b832f6bd6e043487",
   "lastOpenFiles": [
     "changelog.md",
     "C-Ideation.md",
