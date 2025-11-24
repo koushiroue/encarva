@@ -146,12 +146,22 @@ behind the scene
 _ is sleeping
 Chamber level
 
+Vibrations through Lighthouse
+
+Keeper picks up his binoculars 
+Keeper looks at the window outside (?)
+
+Unaware of his surrounding, Wave of
+
 
 ### Act 2
 #### Initing Incident
 _ is getting blasted away
 Lighthouse Warning System
 Gets up and walks the stairway
+
+
+
 
 Door is frozen, requires (PUSH / PULL)
 Enters the middle level
