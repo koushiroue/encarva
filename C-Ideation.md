@@ -125,9 +125,34 @@ Scene take palce in waning sun - sunset
 ### Initial Sketches
 
 
+# Story & Script
+
+
+## Final Logline
+A Lone Keeper of the Lighthouse, under the upcoming the calamity of snowstorm, must navigate through the tower at the top and light up the beacon that clears the storm.
+## Synops
 
 
 
+## Treatment
+behind the scene
+
+
+## Storyboard
+Storyboard = shooting board
+
+
+| Thumbnails  | Storyboard | Shooting Board          |
+| ----------- | ---------- | ----------------------- |
+| visual cues | Angle      | Layout Artist           |
+|             |            | Instructional cameraman |
+
+
+Exposition bell
+
+Antagonist's Force
+
+Catalyst Change = event trigger
 
 # P
 
