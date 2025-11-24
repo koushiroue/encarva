@@ -48,11 +48,12 @@ Lighthouse- man
 - Without people to direct, snowstorm will keep piling on
 - End of the Festival means end of the world
 - Idk any other steak
-
+- Lever is frozen (can be use as a TP2)
 ### Resolve
 - Lighthouse is lit — providing visible light and heat to the area.
 - the snow storm is subsided.
 - ~~the "Snow" in question is a bunch of millions moth-like creature with cotton exterior providing freezing essence~~
+- Lighting is over.
 - 
 
 
@@ -100,7 +101,7 @@ mayro odyssey sand kingdom
 ### The Legend of Zelda : Majora Mask
 - Snowhead temple
 - major inspiration 
-- Snowhead temple in hail and blizzard weather, clearing the temple clears out the foggy weatehr
+- Snowhead temple in hail and blizzard weather, clearing the temple clears out the foggy weather
 ![[image-3.webp|281x169]]
 ### Render Style
 idk maybe ice age
@@ -136,6 +137,28 @@ A Lone Keeper of the Lighthouse, under the upcoming the calamity of snowstorm, m
 
 ## Treatment
 behind the scene
+
+
+# 3 Act Structure
+
+## Act 1
+### Normal World
+_ is sleeping
+
+## Act 2
+### Initing Incident
+is 
+
+### Mid point 
+
+
+### Climax
+
+
+## Act 3
+### End
+
+
 
 
 ## Storyboard
