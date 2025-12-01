@@ -2,7 +2,7 @@
   "accentColor": "#97a6c3",
   "theme": "system",
   "baseFontSize": 12,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "enabledCssSnippets": [

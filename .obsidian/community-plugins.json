@@ -1,16 +1,10 @@
 [
-  "obsidian-git",
-  "obsidian-advanced-new-file",
-  "image-converter",
-  "autofit-tabs",
   "obsidian-style-settings",
-  "consistent-attachments-and-links",
-  "obsidian-minimal-settings",
-  "obsidian-tasks-plugin",
-  "table-editor-obsidian",
+  "autofit-tabs",
+  "oz-clear-unused-images",
   "cmdr",
-  "obsidian-hider",
-  "notebook-navigator",
-  "vertical-tabs",
-  "oz-clear-unused-images"
+  "consistent-attachments-and-links",
+  "obsidian-git",
+  "image-converter",
+  "obsidian-minimal-settings"
 ]
