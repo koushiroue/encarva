@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "timeline"
             }
+          },
+          {
+            "id": "c06a89cbd0f92504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Buffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!Buffer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -181,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Ideation.md",
+                "file": "!Buffer.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C-Ideation"
+              "title": "Outline of !Buffer"
             }
           }
         ]
@@ -203,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C-Ideation.md"
+                "file": "!Buffer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for C-Ideation"
+              "title": "File properties for !Buffer"
             }
           },
           {
@@ -293,10 +307,10 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "aeb6d1e2e127c9ad",
+  "active": "c06a89cbd0f92504",
   "lastOpenFiles": [
-    "changelog.md",
     "C-Ideation.md",
+    "changelog.md",
     "Paradigma.md",
     "conflict-files-obsidian-git.md",
     "Works/Keeb/CEL2-k8 jis F24_Wrap vial.vil",
