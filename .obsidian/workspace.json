@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "ed281b3d0630242e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C-Ideation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C-Ideation"
-            }
-          },
-          {
             "id": "d93ba80689c50e91",
             "type": "leaf",
             "state": {
@@ -55,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigma.md",
+                "file": "to-do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paradigma"
+              "title": "to-do"
             }
           },
           {
@@ -111,16 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Buffer.md",
+                "file": "Notes/Animation/Effect Simulation/XGen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Buffer"
+              "title": "XGen"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,23 +119,6 @@
         "id": "6e62c99e5c9f4c70",
         "type": "tabs",
         "children": [
-          {
-            "id": "022db0be13d4108d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "aeb6d1e2e127c9ad",
             "type": "leaf",
@@ -172,9 +141,18 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e34880e99699ce12",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,13 +173,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Buffer.md",
+                "file": "to-do.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !Buffer"
+              "title": "Outline of to-do"
+            }
+          },
+          {
+            "id": "022db0be13d4108d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -217,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "!Buffer.md"
+                "file": "to-do.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for !Buffer"
+              "title": "File properties for to-do"
             }
           },
           {
@@ -307,11 +302,21 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "c06a89cbd0f92504",
+  "active": "a504eb58b81bc9f0",
   "lastOpenFiles": [
-    "C-Ideation.md",
-    "changelog.md",
+    "README.md",
     "Paradigma.md",
+    "Directory.md",
+    "drives/2025/CEL512.md",
+    "drives/drive list.md",
+    "Notes/Animation/C-Ideation.md",
+    "Notes/Animation",
+    "Notes/Animation/Effect Simulation/XGen.md",
+    "Untitled.md",
+    "!Buffer.md",
+    "Notes/Animation/Effect Simulation",
+    "Notes",
+    "changelog.md",
     "conflict-files-obsidian-git.md",
     "Works/Keeb/CEL2-k8 jis F24_Wrap vial.vil",
     "Works/Keeb/CEL-k8 jis F24_Wrap vial.vil",
@@ -323,12 +328,9 @@
     "attachments/image-2.webp",
     "attachments/image-1.webp",
     "attachments/image.webp",
-    "README.md",
     "Note/Workplace/Phones.md",
     "archive/timeline.md",
-    "drives/2025/CEL512.md",
     "Note/Workplace/Rig.md",
-    "Directory.md",
     "Ideation.md",
     "to-do.md",
     "Note/Workplace/Computers.md",
@@ -336,23 +338,16 @@
     "archive/note/note-xv/!note/notelog.txt",
     "archive/note/note-xv/!note/!XV.ico",
     "archive/note/note-xv/!note/!ico.ico",
-    "archive/note/note-xv/!note/desktop.ini",
     "archive/note/note-xv/note-xv.md",
     "archive/note/note-xiv/note-xiv.md",
-    "archive/note/note-xv/!note",
-    "archive/note/note-xii/~neutrinote_settings_data.txt",
     "archive/note/note-xii/note-xii.md",
     "archive/logs/log-2019.md",
     "archive/logs/log-2017-2018.md",
     "archive/logs/CELSEXHDD-DIR.md",
     "Note/References/Libs.md",
-    "drives/drive list.md",
     "attachments/encarva2.png",
-    "!Buffer.md",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
-    "Note/Workplace/attachments/phone-vivo.png",
-    "Note/Encarva.md",
-    "Note/Workplace/Phones/Etc.md"
+    "Note/Workplace/attachments/phone-vivo.png"
   ]
 }

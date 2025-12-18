@@ -1,10 +1,12 @@
 [
   "obsidian-style-settings",
-  "autofit-tabs",
   "oz-clear-unused-images",
   "cmdr",
   "consistent-attachments-and-links",
   "obsidian-git",
   "image-converter",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "vertical-tabs",
+  "statusbar-organizer",
+  "better-word-count"
 ]
