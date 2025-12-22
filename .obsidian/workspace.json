@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Animation/Effect Simulation/XGen.md",
+                "file": "Notes/Animation/AD3 4/C-Ideation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XGen"
+              "title": "C-Ideation"
+            }
+          },
+          {
+            "id": "db5eb2b3c2e1cde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Animation/AD3 4/Storyline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storyline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,8 +166,7 @@
               "title": "Vertical tabs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md",
+                "file": "Notes/Animation/AD3 4/Storyline.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to-do"
+              "title": "Outline of Storyline"
             }
           },
           {
@@ -213,10 +226,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "to-do.md"
+                "file": "Notes/Animation/AD3 4/Storyline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for to-do"
+              "title": "File properties for Storyline"
             }
           },
           {
@@ -303,16 +316,19 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "e34880e99699ce12",
+  "active": "db5eb2b3c2e1cde8",
   "lastOpenFiles": [
+    "Notes/Animation/AD3 4/C-Ideation.md",
+    "Notes/Animation/AD3 4/Storyline.md",
+    "Notes/Animation/AD3 4",
+    "Notes/Animation/Effect Simulation/XGen.md",
+    "to-do.md",
     "README.md",
     "Paradigma.md",
     "Directory.md",
     "drives/2025/CEL512.md",
     "drives/drive list.md",
-    "Notes/Animation/C-Ideation.md",
     "Notes/Animation",
-    "Notes/Animation/Effect Simulation/XGen.md",
     "Untitled.md",
     "!Buffer.md",
     "Notes/Animation/Effect Simulation",
@@ -333,12 +349,10 @@
     "archive/timeline.md",
     "Note/Workplace/Rig.md",
     "Ideation.md",
-    "to-do.md",
     "Note/Workplace/Computers.md",
     "archive/true-timeline.md",
     "archive/note/note-xv/!note/notelog.txt",
     "archive/note/note-xv/!note/!XV.ico",
-    "archive/note/note-xv/!note/!ico.ico",
     "archive/note/note-xv/note-xv.md",
     "archive/note/note-xiv/note-xiv.md",
     "archive/note/note-xii/note-xii.md",

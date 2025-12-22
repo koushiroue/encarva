@@ -84,30 +84,30 @@ Clear out the snow
 mayro odyssey sand kingdom
 - expectiation - dessert = heat
 - reality - dessert with cold weather 
-![[../../attachments/image.webp|348x183]]
+![[../../../attachments/image.webp|348x183]]
 
 
 - mood board
 - red hue suggests a calamity of some kind
-![[../../attachments/image-1.webp|290x193]]
+![[../../../attachments/image-1.webp|290x193]]
 
 ### Movie Referes
 - Tom Cruise Mission Impossible 
 
 ### Ice Age
 - this one is ice age bcz its neatiness
-![[../../attachments/image-2.webp|292x170]]
+![[../../../attachments/image-2.webp|292x170]]
 
 ### The Legend of Zelda : Majora Mask
 - Snowhead temple
 - major inspiration 
 - Snowhead temple in hail and blizzard weather, clearing the temple clears out the foggy weather
-![[../../attachments/image-3.webp|281x169]]
+![[../../../attachments/image-3.webp|281x169]]
 ### Render Style
 idk maybe ice age
 
 ### Dog Man Red Hue Render
-![[../../attachments/image-5.webp|318x179]]
+![[../../../attachments/image-5.webp|318x179]]
 
 
 #### Character References
