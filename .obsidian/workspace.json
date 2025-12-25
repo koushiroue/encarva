@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Animation/AD3 4/Storyline.md",
+                "file": "Notes/Life/Life-Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storyline"
+              "title": "Life-Buffer"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Animation/AD3 4/Storyline.md",
+                "file": "Notes/Life/Life-Buffer.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storyline"
+              "title": "Outline of Life-Buffer"
             }
           },
           {
@@ -213,7 +213,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f6bb44d3303eb1e2",
@@ -226,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Animation/AD3 4/Storyline.md"
+                "file": "Notes/Life/Life-Buffer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Storyline"
+              "title": "File properties for Life-Buffer"
             }
           },
           {
@@ -238,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory.md",
+                "file": "Notes/Life/Life-Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Directory"
+              "title": "Backlinks for Life-Buffer"
             }
           },
           {
@@ -257,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directory.md",
+                "file": "Notes/Life/Life-Buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Directory"
+              "title": "Outgoing links from Life-Buffer"
             }
           },
           {
@@ -293,8 +294,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c9bcc72adcaf33fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -316,10 +328,12 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "aeb6d1e2e127c9ad",
+  "active": "c9bcc72adcaf33fb",
   "lastOpenFiles": [
-    "Notes/Animation/AD3 4/C-Ideation.md",
     "Notes/Animation/AD3 4/Storyline.md",
+    "Notes/Life/Life-Buffer.md",
+    "Notes/Life",
+    "Notes/Animation/AD3 4/C-Ideation.md",
     "Notes/Animation/AD3 4",
     "Notes/Animation/Effect Simulation/XGen.md",
     "to-do.md",
@@ -352,14 +366,12 @@
     "Note/Workplace/Computers.md",
     "archive/true-timeline.md",
     "archive/note/note-xv/!note/notelog.txt",
-    "archive/note/note-xv/!note/!XV.ico",
     "archive/note/note-xv/note-xv.md",
     "archive/note/note-xiv/note-xiv.md",
     "archive/note/note-xii/note-xii.md",
     "archive/logs/log-2019.md",
     "archive/logs/log-2017-2018.md",
     "archive/logs/CELSEXHDD-DIR.md",
-    "Note/References/Libs.md",
     "attachments/encarva2.png",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
