@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changelog.md",
+                "file": "archive/!Post-it Archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "changelog"
+              "title": "!Post-it Archive"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,8 +166,7 @@
               "title": "Vertical tabs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/Life-Buffer.md",
+                "file": "archive/!Post-it Archive.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life-Buffer"
+              "title": "Outline of !Post-it Archive"
             }
           },
           {
@@ -214,8 +213,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f6bb44d3303eb1e2",
@@ -311,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,10 +327,12 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "e34880e99699ce12",
+  "active": "d93ba80689c50e91",
   "lastOpenFiles": [
-    "Notes/Animation/AD3 4/Storyline.md",
+    "changelog.md",
+    "archive/!Post-it Archive.md",
     "Notes/Life/Life-Buffer.md",
+    "Notes/Animation/AD3 4/Storyline.md",
     "Notes/Life",
     "Notes/Animation/AD3 4/C-Ideation.md",
     "Notes/Animation/AD3 4",
@@ -348,7 +348,6 @@
     "!Buffer.md",
     "Notes/Animation/Effect Simulation",
     "Notes",
-    "changelog.md",
     "conflict-files-obsidian-git.md",
     "Works/Keeb/CEL2-k8 jis F24_Wrap vial.vil",
     "Works/Keeb/CEL-k8 jis F24_Wrap vial.vil",
@@ -372,7 +371,6 @@
     "archive/note/note-xii/note-xii.md",
     "archive/logs/log-2019.md",
     "archive/logs/log-2017-2018.md",
-    "archive/logs/CELSEXHDD-DIR.md",
     "attachments/encarva2.png",
     "Note/Workplace/attachments/phoone-samsung-a51.png",
     "Note/Workplace/attachments/phone-xperia-mini-pro.png",
