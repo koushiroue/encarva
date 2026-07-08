@@ -197,7 +197,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -341,15 +342,15 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "aeb6d1e2e127c9ad",
+  "active": "9b8bf84775301b78",
   "lastOpenFiles": [
+    "Notes/Animation/AD3 4/C-Ideation.md",
     "Look Dev.md",
     "archive/!Post-it Archive.md",
     "changelog.md",
     "Notes/Life/Life-Buffer.md",
     "Notes/Animation/AD3 4/Storyline.md",
     "Notes/Life",
-    "Notes/Animation/AD3 4/C-Ideation.md",
     "Notes/Animation/AD3 4",
     "Notes/Animation/Effect Simulation/XGen.md",
     "to-do.md",
