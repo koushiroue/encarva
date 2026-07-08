@@ -197,8 +197,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -342,7 +341,7 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "e34880e99699ce12",
+  "active": "aeb6d1e2e127c9ad",
   "lastOpenFiles": [
     "Look Dev.md",
     "archive/!Post-it Archive.md",
