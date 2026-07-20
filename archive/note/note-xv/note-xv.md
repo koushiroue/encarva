@@ -3,6 +3,9 @@ tags:
   - note-xv
 ---
 # Note XV
+
+[[!ico.ico]]
+[[!XV.ico]]
 ## Log (XVlog)
 
 
