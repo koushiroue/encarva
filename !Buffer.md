@@ -1,7 +1,6 @@
 # Buffer
 
-## L
-
+## Library Tree
 Library-Tree-v2.4.0.mod.34
 - Fixed UI bug, on original script, related to SMP resizing artifacts of Album Art and Artist images, resulting on grey borders in some cases.
 - Fixed UI bug, on original script, related to circular mask producing artifacts in some cases.
@@ -249,7 +248,7 @@ Library-Tree-v2.4.0.mod.1
 
 
 
-## A
+## Fb2k Sort
 ### Sort
 
 $left(%date%,4) | %album% | %discnumber% | %tracknumber%
